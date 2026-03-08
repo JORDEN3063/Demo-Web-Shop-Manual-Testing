@@ -111,4 +111,3 @@ Through this project, the following software testing skills were practiced:
 ## Author
 
 Jorden
-Manual Testing Project
